@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Вадим Немуров](https://up.htmlacademy.ru/javascript/11/user/371987).
-* Наставник: [Игорь Антонов](https://htmlacademy.ru/profile/id586661).
+* Наставник: [Игорь Антонов].
 
 ---
 
